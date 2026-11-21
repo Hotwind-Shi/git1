@@ -23,3 +23,18 @@ __pycache__/
 
 # WorkBuddy 本地工作区数据
 .workbuddy/
+
+# SSH 私钥与证书（严禁提交到 GitHub）
+.ssh/
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
+id_ecdsa
+id_ecdsa.*
+id_dsa
+id_dsa.*
+*.pem
+*.key
+*.ppk
+*.p12
