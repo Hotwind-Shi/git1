@@ -1,0 +1,25 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# 编辑器 / IDE
+.idea/
+*.swp
+*~
+
+# 依赖与构建
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.env
+.env.local
+
+# 系统
+.DS_Store
+
+# WorkBuddy 本地工作区数据
+.workbuddy/
